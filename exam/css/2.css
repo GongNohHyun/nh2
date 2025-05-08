@@ -1,0 +1,20 @@
+.example {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 5px;
+    float: right;
+
+}
+
+.example2 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 5px;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}

@@ -1,0 +1,27 @@
+
+
+#page {
+    width: 99vw;
+    margin: 0 auto;
+}
+
+nav {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+.simple {
+    text-align: left;
+    padding: 1.5rem;
+}
+
+.menu2 li {
+    display:inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu1 li {
+    float: right;
+    width: 10%;
+}
